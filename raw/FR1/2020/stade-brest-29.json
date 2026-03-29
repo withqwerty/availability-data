@@ -1,0 +1,5657 @@
+{
+  "club": "Stade Brestois 29",
+  "tmSlug": "stade-brest-29",
+  "tmId": 3911,
+  "season": "2020",
+  "scrapedAt": "2026-03-28T02:39:01.012030+00:00",
+  "competitions": [
+    {
+      "code": "FRC",
+      "name": "Coupe de France 20/21",
+      "players": [
+        {
+          "name": "Gautier Larsonneur",
+          "tmId": 357047,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Mouez Hassen",
+          "tmId": 215677,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Sébastien Cibois",
+          "tmId": 395251,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Lilian Brassier",
+          "tmId": 485960,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Brendan Chardonnet",
+          "tmId": 250779,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Jean-Kévin Duverne",
+          "tmId": 344864,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Christophe Hérelle",
+          "tmId": 170544,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            }
+          ]
+        },
+        {
+          "name": "Denys Bain",
+          "tmId": 184575,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            }
+          ]
+        },
+        {
+          "name": "Romain Perraud",
+          "tmId": 318523,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Ludovic Baal",
+          "tmId": 39913,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ronaël Pierre-Gabriel",
+          "tmId": 410185,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Julien Faussurier",
+          "tmId": 78917,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Ibrahima Diallo",
+          "tmId": 413032,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_included"
+            },
+            {
+              "round": "6R",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Hugo Magnetti",
+          "tmId": 474662,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Haris Belkebla",
+          "tmId": 138055,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Hianga'a Mbock",
+          "tmId": 684062,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Cristian Battocchio",
+          "tmId": 129868,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_included"
+            },
+            {
+              "round": "6R",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Idrissa Dioh",
+          "tmId": 780146,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Paul Lasne",
+          "tmId": 93726,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Ferris N'Goma",
+          "tmId": 127192,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Romain Philippoteaux",
+          "tmId": 255220,
+          "position": "LM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Romain Faivre",
+          "tmId": 555076,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Bandiougou Fadiga",
+          "tmId": 590914,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Killian Benvindo",
+          "tmId": 676190,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Djibril Bangoura",
+          "tmId": 807170,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Heri Tavares",
+          "tmId": 445517,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6R",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Franck Honorat",
+          "tmId": 229006,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Irvin Cardona",
+          "tmId": 342226,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jérémy Le Douaron",
+          "tmId": 737781,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Steve Mounié",
+          "tmId": 238639,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Gaëtan Charbonnier",
+          "tmId": 93678,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FR1",
+      "name": "Ligue 1 20/21",
+      "players": [
+        {
+          "name": "Gautier Larsonneur",
+          "tmId": 357047,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Mouez Hassen",
+          "tmId": 215677,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_included"
+            },
+            {
+              "round": "3",
+              "status": "not_included"
+            },
+            {
+              "round": "4",
+              "status": "not_included"
+            },
+            {
+              "round": "5",
+              "status": "not_included"
+            },
+            {
+              "round": "6",
+              "status": "not_included"
+            },
+            {
+              "round": "7",
+              "status": "not_included"
+            },
+            {
+              "round": "8",
+              "status": "not_included"
+            },
+            {
+              "round": "9",
+              "status": "not_included"
+            },
+            {
+              "round": "10",
+              "status": "not_included"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "bench"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "bench"
+            },
+            {
+              "round": "35",
+              "status": "bench"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Sébastien Cibois",
+          "tmId": 395251,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "34",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Lilian Brassier",
+          "tmId": 485960,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_included"
+            },
+            {
+              "round": "4",
+              "status": "not_included"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_included"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Brendan Chardonnet",
+          "tmId": 250779,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jean-Kévin Duverne",
+          "tmId": 344864,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "sub_in"
+            },
+            {
+              "round": "35",
+              "status": "sub_in"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Christophe Hérelle",
+          "tmId": 170544,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "absent",
+              "detail": "Yellow card suspension – Ligue 1 – until 01/02/2021"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "28",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "29",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "30",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "31",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "32",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "33",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "34",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "35",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "36",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "37",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            },
+            {
+              "round": "38",
+              "status": "injured",
+              "detail": "Knee injury - Return expected on 30/06/2021"
+            }
+          ]
+        },
+        {
+          "name": "Denys Bain",
+          "tmId": 184575,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "2",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "3",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "4",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "5",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "6",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "7",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "8",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "9",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "10",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "11",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "12",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "13",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "14",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "15",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "17",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "18",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "25",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "26",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "28",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "29",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "30",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/03/2021"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "bench"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Romain Perraud",
+          "tmId": 318523,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ludovic Baal",
+          "tmId": 39913,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "bench"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "sub_in"
+            },
+            {
+              "round": "35",
+              "status": "bench"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Ronaël Pierre-Gabriel",
+          "tmId": 410185,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Julien Faussurier",
+          "tmId": 78917,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "sub_in"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "bench"
+            },
+            {
+              "round": "35",
+              "status": "bench"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ibrahima Diallo",
+          "tmId": 413032,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "not_included"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_included"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_at_club"
+            },
+            {
+              "round": "23",
+              "status": "not_included"
+            },
+            {
+              "round": "24",
+              "status": "not_included"
+            },
+            {
+              "round": "25",
+              "status": "not_included"
+            },
+            {
+              "round": "26",
+              "status": "not_included"
+            },
+            {
+              "round": "27",
+              "status": "not_included"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            },
+            {
+              "round": "29",
+              "status": "not_at_club"
+            },
+            {
+              "round": "30",
+              "status": "not_at_club"
+            },
+            {
+              "round": "31",
+              "status": "not_at_club"
+            },
+            {
+              "round": "32",
+              "status": "not_at_club"
+            },
+            {
+              "round": "33",
+              "status": "not_at_club"
+            },
+            {
+              "round": "34",
+              "status": "not_at_club"
+            },
+            {
+              "round": "35",
+              "status": "not_at_club"
+            },
+            {
+              "round": "36",
+              "status": "not_at_club"
+            },
+            {
+              "round": "37",
+              "status": "not_at_club"
+            },
+            {
+              "round": "38",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_included"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "absent",
+              "detail": "Indirect card suspension – Ligue 1 – until 25/04/2021"
+            },
+            {
+              "round": "35",
+              "status": "sub_in"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Hugo Magnetti",
+          "tmId": 474662,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "sub_in"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "bench"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "sub_in"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Haris Belkebla",
+          "tmId": 138055,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "absent",
+              "detail": "Yellow card suspension – Ligue 1 – until 17/12/2020"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            },
+            {
+              "round": "29",
+              "status": "sub_in"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 19/04/2021"
+            },
+            {
+              "round": "33",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 19/04/2021"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Hianga'a Mbock",
+          "tmId": 684062,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "sub_in"
+            },
+            {
+              "round": "35",
+              "status": "bench"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Cristian Battocchio",
+          "tmId": 129868,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_included"
+            },
+            {
+              "round": "25",
+              "status": "not_included"
+            },
+            {
+              "round": "26",
+              "status": "not_included"
+            },
+            {
+              "round": "27",
+              "status": "not_included"
+            },
+            {
+              "round": "28",
+              "status": "not_included"
+            },
+            {
+              "round": "29",
+              "status": "not_included"
+            },
+            {
+              "round": "30",
+              "status": "not_included"
+            },
+            {
+              "round": "31",
+              "status": "not_included"
+            },
+            {
+              "round": "32",
+              "status": "not_included"
+            },
+            {
+              "round": "33",
+              "status": "not_at_club"
+            },
+            {
+              "round": "34",
+              "status": "not_at_club"
+            },
+            {
+              "round": "35",
+              "status": "not_at_club"
+            },
+            {
+              "round": "36",
+              "status": "not_at_club"
+            },
+            {
+              "round": "37",
+              "status": "not_at_club"
+            },
+            {
+              "round": "38",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Idrissa Dioh",
+          "tmId": 780146,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "34",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Paul Lasne",
+          "tmId": 93726,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 24/12/2020"
+            },
+            {
+              "round": "17",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 24/12/2020"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "sub_in"
+            },
+            {
+              "round": "31",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "32",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "33",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "34",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "35",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "36",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "37",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            },
+            {
+              "round": "38",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/11/2021"
+            }
+          ]
+        },
+        {
+          "name": "Ferris N'Goma",
+          "tmId": 127192,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "bench"
+            },
+            {
+              "round": "34",
+              "status": "bench"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Romain Philippoteaux",
+          "tmId": 255220,
+          "position": "LM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_included"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            },
+            {
+              "round": "29",
+              "status": "bench"
+            },
+            {
+              "round": "30",
+              "status": "sub_in"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "sub_in"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Romain Faivre",
+          "tmId": 555076,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "injured",
+              "detail": "Groin injury - Return expected on 22/04/2021"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Bandiougou Fadiga",
+          "tmId": 590914,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_included"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_included"
+            },
+            {
+              "round": "21",
+              "status": "not_included"
+            },
+            {
+              "round": "22",
+              "status": "not_included"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            },
+            {
+              "round": "29",
+              "status": "sub_in"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "sub_in"
+            },
+            {
+              "round": "32",
+              "status": "bench"
+            },
+            {
+              "round": "33",
+              "status": "sub_in"
+            },
+            {
+              "round": "34",
+              "status": "bench"
+            },
+            {
+              "round": "35",
+              "status": "bench"
+            },
+            {
+              "round": "36",
+              "status": "bench"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Killian Benvindo",
+          "tmId": 676190,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "34",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Djibril Bangoura",
+          "tmId": 807170,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "31",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "32",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "33",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "34",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "35",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "36",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "37",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "38",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Heri Tavares",
+          "tmId": 445517,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_included"
+            },
+            {
+              "round": "21",
+              "status": "not_included"
+            },
+            {
+              "round": "22",
+              "status": "not_at_club"
+            },
+            {
+              "round": "23",
+              "status": "not_at_club"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_at_club"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            },
+            {
+              "round": "29",
+              "status": "not_at_club"
+            },
+            {
+              "round": "30",
+              "status": "not_at_club"
+            },
+            {
+              "round": "31",
+              "status": "not_at_club"
+            },
+            {
+              "round": "32",
+              "status": "not_at_club"
+            },
+            {
+              "round": "33",
+              "status": "not_included"
+            },
+            {
+              "round": "34",
+              "status": "not_at_club"
+            },
+            {
+              "round": "35",
+              "status": "not_at_club"
+            },
+            {
+              "round": "36",
+              "status": "not_at_club"
+            },
+            {
+              "round": "37",
+              "status": "not_at_club"
+            },
+            {
+              "round": "38",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Franck Honorat",
+          "tmId": 229006,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "sub_in"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "30",
+              "status": "sub_in"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Irvin Cardona",
+          "tmId": 342226,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "sub_in"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "sub_in"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "sub_in"
+            },
+            {
+              "round": "37",
+              "status": "sub_in"
+            },
+            {
+              "round": "38",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Jérémy Le Douaron",
+          "tmId": 737781,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "injured",
+              "detail": "Heel problems - Return expected on 07/01/2021"
+            },
+            {
+              "round": "15",
+              "status": "injured",
+              "detail": "Heel problems - Return expected on 07/01/2021"
+            },
+            {
+              "round": "16",
+              "status": "injured",
+              "detail": "Heel problems - Return expected on 07/01/2021"
+            },
+            {
+              "round": "17",
+              "status": "injured",
+              "detail": "Heel problems - Return expected on 07/01/2021"
+            },
+            {
+              "round": "18",
+              "status": "injured",
+              "detail": "Heel problems - Return expected on 07/01/2021"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "sub_in"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "bench"
+            },
+            {
+              "round": "31",
+              "status": "sub_in"
+            },
+            {
+              "round": "32",
+              "status": "sub_in"
+            },
+            {
+              "round": "33",
+              "status": "sub_in"
+            },
+            {
+              "round": "34",
+              "status": "sub_in"
+            },
+            {
+              "round": "35",
+              "status": "sub_in"
+            },
+            {
+              "round": "36",
+              "status": "sub_in"
+            },
+            {
+              "round": "37",
+              "status": "bench"
+            },
+            {
+              "round": "38",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Steve Mounié",
+          "tmId": 238639,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_included"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "starting"
+            },
+            {
+              "round": "32",
+              "status": "starting"
+            },
+            {
+              "round": "33",
+              "status": "starting"
+            },
+            {
+              "round": "34",
+              "status": "absent",
+              "detail": "Yellow card suspension – Ligue 1 – until 25/04/2021"
+            },
+            {
+              "round": "35",
+              "status": "sub_in"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Gaëtan Charbonnier",
+          "tmId": 93678,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            },
+            {
+              "round": "29",
+              "status": "starting"
+            },
+            {
+              "round": "30",
+              "status": "starting"
+            },
+            {
+              "round": "31",
+              "status": "sub_in"
+            },
+            {
+              "round": "32",
+              "status": "sub_in"
+            },
+            {
+              "round": "33",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "34",
+              "status": "starting"
+            },
+            {
+              "round": "35",
+              "status": "starting"
+            },
+            {
+              "round": "36",
+              "status": "starting"
+            },
+            {
+              "round": "37",
+              "status": "starting"
+            },
+            {
+              "round": "38",
+              "status": "starting"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "league": "FR1"
+}

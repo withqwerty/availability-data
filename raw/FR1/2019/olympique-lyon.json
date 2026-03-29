@@ -1,0 +1,7284 @@
+{
+  "club": "Olympique Lyon",
+  "tmSlug": "olympique-lyon",
+  "tmId": 1041,
+  "season": "2019",
+  "scrapedAt": "2026-03-28T02:15:03.952640+00:00",
+  "competitions": [
+    {
+      "code": "FRC",
+      "name": "Coupe de France 19/20",
+      "players": [
+        {
+          "name": "Anthony Racioppi",
+          "tmId": 395671,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Lopes",
+          "tmId": 60561,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ciprian Tătărușanu",
+          "tmId": 55282,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Pierre Kalulu",
+          "tmId": 585949,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Joachim Andersen",
+          "tmId": 260827,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Oumar Solet",
+          "tmId": 463665,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Sinaly Diomandé",
+          "tmId": 702441,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Jason Denayer",
+          "tmId": 277114,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Marcelo",
+          "tmId": 52920,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Mapou Yanga-Mbiwa",
+          "tmId": 57480,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Melvin Bard",
+          "tmId": 532775,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Youssouf Koné",
+          "tmId": 274484,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            }
+          ]
+        },
+        {
+          "name": "Marçal",
+          "tmId": 137745,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Kenny Tete",
+          "tmId": 206746,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Rafael",
+          "tmId": 61892,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Léo Dubois",
+          "tmId": 236400,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Thiago Mendes",
+          "tmId": 135617,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Camilo",
+          "tmId": 672202,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_included"
+            },
+            {
+              "round": "6R",
+              "status": "not_included"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Bruno Guimarães",
+          "tmId": 520624,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_included"
+            },
+            {
+              "round": "6R",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Maxence Caqueret",
+          "tmId": 395237,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "bench"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Lucas Tousart",
+          "tmId": 353948,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Pape Cheikh",
+          "tmId": 336828,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6R",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Rayan Cherki",
+          "tmId": 607223,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Houssem Aouar",
+          "tmId": 395693,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Reine-Adélaïde",
+          "tmId": 326300,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Martin Terrier",
+          "tmId": 442891,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Maxwel Cornet",
+          "tmId": 234781,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Bertrand Traoré",
+          "tmId": 131996,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Memphis Depay",
+          "tmId": 167850,
+          "position": "SS",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "6R",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Amine Gouiri",
+          "tmId": 418659,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "sub_in"
+            },
+            {
+              "round": "6R",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Moussa Dembélé",
+          "tmId": 229004,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "starting"
+            },
+            {
+              "round": "6R",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Karl Toko Ekambi",
+          "tmId": 315110,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "5R",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6R",
+              "status": "not_included"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CL",
+      "name": "UEFA Champions League 19/20",
+      "players": [
+        {
+          "name": "Anthony Racioppi",
+          "tmId": 395671,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Lopes",
+          "tmId": 60561,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ciprian Tătărușanu",
+          "tmId": 55282,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Pierre Kalulu",
+          "tmId": 585949,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Joachim Andersen",
+          "tmId": 260827,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Oumar Solet",
+          "tmId": 463665,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Sinaly Diomandé",
+          "tmId": 702441,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Jason Denayer",
+          "tmId": 277114,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Marcelo",
+          "tmId": 52920,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Mapou Yanga-Mbiwa",
+          "tmId": 57480,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Melvin Bard",
+          "tmId": 532775,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Youssouf Koné",
+          "tmId": 274484,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Marçal",
+          "tmId": 137745,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 20/11/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 20/11/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Kenny Tete",
+          "tmId": 206746,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Knock - Return expected on 20/11/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Rafael",
+          "tmId": 61892,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Léo Dubois",
+          "tmId": 236400,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Thiago Mendes",
+          "tmId": 135617,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Camilo",
+          "tmId": 672202,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_included"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_included"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Bruno Guimarães",
+          "tmId": 520624,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_included"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Maxence Caqueret",
+          "tmId": 395237,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Lucas Tousart",
+          "tmId": 353948,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Pape Cheikh",
+          "tmId": 336828,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Rayan Cherki",
+          "tmId": 607223,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Houssem Aouar",
+          "tmId": 395693,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 03/12/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Reine-Adélaïde",
+          "tmId": 326300,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Martin Terrier",
+          "tmId": 442891,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Knock - Return expected on 09/11/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Maxwel Cornet",
+          "tmId": 234781,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Bertrand Traoré",
+          "tmId": 131996,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Memphis Depay",
+          "tmId": 167850,
+          "position": "SS",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 02/12/2019"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Amine Gouiri",
+          "tmId": 418659,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Moussa Dembélé",
+          "tmId": 229004,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "sub_in"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Grp.",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Karl Toko Ekambi",
+          "tmId": 315110,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_at_club"
+            },
+            {
+              "round": "Grp.",
+              "status": "not_included"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FRL",
+      "name": "Coupe de la Ligue 19/20",
+      "players": [
+        {
+          "name": "Anthony Racioppi",
+          "tmId": 395671,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Lopes",
+          "tmId": 60561,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ciprian Tătărușanu",
+          "tmId": 55282,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Pierre Kalulu",
+          "tmId": 585949,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Joachim Andersen",
+          "tmId": 260827,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            },
+            {
+              "round": "FIN",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Oumar Solet",
+          "tmId": 463665,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "FIN",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Sinaly Diomandé",
+          "tmId": 702441,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Jason Denayer",
+          "tmId": 277114,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Marcelo",
+          "tmId": 52920,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Mapou Yanga-Mbiwa",
+          "tmId": 57480,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Melvin Bard",
+          "tmId": 532775,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Youssouf Koné",
+          "tmId": 274484,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Marçal",
+          "tmId": 137745,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Calf strain - Return expected on 03/01/2020"
+            },
+            {
+              "round": "QF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Kenny Tete",
+          "tmId": 206746,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Rafael",
+          "tmId": 61892,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Léo Dubois",
+          "tmId": 236400,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Thiago Mendes",
+          "tmId": 135617,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Camilo",
+          "tmId": 672202,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Bruno Guimarães",
+          "tmId": 520624,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_included"
+            },
+            {
+              "round": "QF",
+              "status": "not_included"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Maxence Caqueret",
+          "tmId": 395237,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "bench"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            },
+            {
+              "round": "FIN",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Lucas Tousart",
+          "tmId": 353948,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            },
+            {
+              "round": "FIN",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Pape Cheikh",
+          "tmId": 336828,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "FIN",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Rayan Cherki",
+          "tmId": 607223,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "sub_in"
+            },
+            {
+              "round": "SF",
+              "status": "bench"
+            },
+            {
+              "round": "FIN",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Houssem Aouar",
+          "tmId": 395693,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Reine-Adélaïde",
+          "tmId": 326300,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "FIN",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Martin Terrier",
+          "tmId": 442891,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "sub_in"
+            },
+            {
+              "round": "FIN",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Maxwel Cornet",
+          "tmId": 234781,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Bertrand Traoré",
+          "tmId": 131996,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Memphis Depay",
+          "tmId": 167850,
+          "position": "SS",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "QF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "SF",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Amine Gouiri",
+          "tmId": 418659,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "starting"
+            },
+            {
+              "round": "QF",
+              "status": "bench"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "not_included"
+            }
+          ]
+        },
+        {
+          "name": "Moussa Dembélé",
+          "tmId": 229004,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "sub_in"
+            },
+            {
+              "round": "QF",
+              "status": "starting"
+            },
+            {
+              "round": "SF",
+              "status": "starting"
+            },
+            {
+              "round": "FIN",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Karl Toko Ekambi",
+          "tmId": 315110,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "Ro16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "QF",
+              "status": "not_at_club"
+            },
+            {
+              "round": "SF",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "FIN",
+              "status": "sub_in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FR1",
+      "name": "Ligue 1 19/20",
+      "players": [
+        {
+          "name": "Anthony Racioppi",
+          "tmId": 395671,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Lopes",
+          "tmId": 60561,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Ciprian Tătărușanu",
+          "tmId": 55282,
+          "position": "GK",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Pierre Kalulu",
+          "tmId": 585949,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Joachim Andersen",
+          "tmId": 260827,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Oumar Solet",
+          "tmId": 463665,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "25",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "26",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            },
+            {
+              "round": "28",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 31/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Sinaly Diomandé",
+          "tmId": 702441,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_included"
+            },
+            {
+              "round": "3",
+              "status": "not_included"
+            },
+            {
+              "round": "4",
+              "status": "not_included"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_at_club"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Jason Denayer",
+          "tmId": 277114,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Marcelo",
+          "tmId": 52920,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Mapou Yanga-Mbiwa",
+          "tmId": 57480,
+          "position": "CB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Melvin Bard",
+          "tmId": 532775,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "5",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Youssouf Koné",
+          "tmId": 274484,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 14/09/2019"
+            },
+            {
+              "round": "5",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 14/09/2019"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "absent",
+              "detail": "Suspended – Ligue 1 – until 07/10/2019"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "18",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "25",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "26",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Ankle surgery - Return expected on 05/03/2020"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Marçal",
+          "tmId": 137745,
+          "position": "LB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "injured",
+              "detail": "Adductor pain - Return expected on 10/09/2019"
+            },
+            {
+              "round": "2",
+              "status": "injured",
+              "detail": "Adductor pain - Return expected on 10/09/2019"
+            },
+            {
+              "round": "3",
+              "status": "injured",
+              "detail": "Adductor pain - Return expected on 10/09/2019"
+            },
+            {
+              "round": "4",
+              "status": "injured",
+              "detail": "Adductor pain - Return expected on 10/09/2019"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 20/11/2019"
+            },
+            {
+              "round": "12",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 20/11/2019"
+            },
+            {
+              "round": "13",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 20/11/2019"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "18",
+              "status": "injured",
+              "detail": "Calf strain - Return expected on 03/01/2020"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Calf strain - Return expected on 03/01/2020"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Kenny Tete",
+          "tmId": 206746,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "sub_in"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "injured",
+              "detail": "Knock - Return expected on 20/11/2019"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "sub_in"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Rafael",
+          "tmId": 61892,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "bench"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Léo Dubois",
+          "tmId": 236400,
+          "position": "RB",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "injured",
+              "detail": "Muscle injury - Return expected on 21/10/2019"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "sub_in"
+            },
+            {
+              "round": "16",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "17",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "18",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Meniscus injury - Return expected on 10/02/2020"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Thiago Mendes",
+          "tmId": 135617,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "absent",
+              "detail": "Red card suspension – Ligue 1 – until 14/09/2019"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_in_squad"
+            }
+          ]
+        },
+        {
+          "name": "Camilo",
+          "tmId": 672202,
+          "position": "DM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_included"
+            },
+            {
+              "round": "6",
+              "status": "not_included"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_included"
+            },
+            {
+              "round": "16",
+              "status": "not_included"
+            },
+            {
+              "round": "17",
+              "status": "not_included"
+            },
+            {
+              "round": "18",
+              "status": "not_included"
+            },
+            {
+              "round": "19",
+              "status": "not_included"
+            },
+            {
+              "round": "20",
+              "status": "not_included"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Bruno Guimarães",
+          "tmId": 520624,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_included"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_included"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_included"
+            },
+            {
+              "round": "19",
+              "status": "not_included"
+            },
+            {
+              "round": "20",
+              "status": "not_included"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_at_club"
+            },
+            {
+              "round": "23",
+              "status": "not_at_club"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Maxence Caqueret",
+          "tmId": 395237,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "bench"
+            },
+            {
+              "round": "13",
+              "status": "bench"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "bench"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Jean Lucas",
+          "tmId": 578872,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "bench"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "bench"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "bench"
+            }
+          ]
+        },
+        {
+          "name": "Lucas Tousart",
+          "tmId": 353948,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "sub_in"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "bench"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "absent",
+              "detail": "Yellow card suspension – Ligue 1 – until 11/11/2019"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "bench"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Pape Cheikh",
+          "tmId": 336828,
+          "position": "CM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_included"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_at_club"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_included"
+            },
+            {
+              "round": "23",
+              "status": "not_included"
+            },
+            {
+              "round": "24",
+              "status": "not_included"
+            },
+            {
+              "round": "25",
+              "status": "not_included"
+            },
+            {
+              "round": "26",
+              "status": "not_included"
+            },
+            {
+              "round": "27",
+              "status": "not_at_club"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Rayan Cherki",
+          "tmId": 607223,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_at_club"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "bench"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "bench"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "sub_in"
+            },
+            {
+              "round": "20",
+              "status": "bench"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "bench"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "bench"
+            },
+            {
+              "round": "26",
+              "status": "not_at_club"
+            },
+            {
+              "round": "27",
+              "status": "bench"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Houssem Aouar",
+          "tmId": 395693,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "bench"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 03/12/2019"
+            },
+            {
+              "round": "15",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 03/12/2019"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Reine-Adélaïde",
+          "tmId": 326300,
+          "position": "AM",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_at_club"
+            },
+            {
+              "round": "2",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "3",
+              "status": "bench"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "sub_in"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "25",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "26",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            },
+            {
+              "round": "28",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 01/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Martin Terrier",
+          "tmId": 442891,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "bench"
+            },
+            {
+              "round": "2",
+              "status": "sub_in"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "injured",
+              "detail": "Knock - Return expected on 09/11/2019"
+            },
+            {
+              "round": "13",
+              "status": "sub_in"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "bench"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "sub_in"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Ill - Return expected on 04/02/2020"
+            },
+            {
+              "round": "23",
+              "status": "sub_in"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "sub_in"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Maxwel Cornet",
+          "tmId": 234781,
+          "position": "LW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "sub_in"
+            },
+            {
+              "round": "2",
+              "status": "bench"
+            },
+            {
+              "round": "3",
+              "status": "sub_in"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "sub_in"
+            },
+            {
+              "round": "6",
+              "status": "bench"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "sub_in"
+            },
+            {
+              "round": "9",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "sub_in"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "sub_in"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "injured",
+              "detail": "Hip bruise - Return expected on 10/12/2019"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Ankle sprain - Return expected on 04/03/2020"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Bertrand Traoré",
+          "tmId": 131996,
+          "position": "RW",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "sub_in"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "sub_in"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "bench"
+            },
+            {
+              "round": "10",
+              "status": "sub_in"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "sub_in"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "bench"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "sub_in"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "sub_in"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "bench"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "sub_in"
+            }
+          ]
+        },
+        {
+          "name": "Memphis Depay",
+          "tmId": 167850,
+          "position": "SS",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "starting"
+            },
+            {
+              "round": "5",
+              "status": "bench"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "sub_in"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "starting"
+            },
+            {
+              "round": "10",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 21/10/2019"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "14",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 02/12/2019"
+            },
+            {
+              "round": "15",
+              "status": "injured",
+              "detail": "Thigh problems - Return expected on 02/12/2019"
+            },
+            {
+              "round": "16",
+              "status": "starting"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "20",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "21",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "22",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "23",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "24",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "25",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "26",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "27",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            },
+            {
+              "round": "28",
+              "status": "injured",
+              "detail": "Cruciate ligament tear - Return expected on 02/07/2020"
+            }
+          ]
+        },
+        {
+          "name": "Amine Gouiri",
+          "tmId": 418659,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "8",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "15",
+              "status": "bench"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "19",
+              "status": "bench"
+            },
+            {
+              "round": "20",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "21",
+              "status": "not_at_club"
+            },
+            {
+              "round": "22",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "23",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "24",
+              "status": "not_at_club"
+            },
+            {
+              "round": "25",
+              "status": "not_at_club"
+            },
+            {
+              "round": "26",
+              "status": "sub_in"
+            },
+            {
+              "round": "27",
+              "status": "not_in_squad"
+            },
+            {
+              "round": "28",
+              "status": "not_at_club"
+            }
+          ]
+        },
+        {
+          "name": "Moussa Dembélé",
+          "tmId": 229004,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "starting"
+            },
+            {
+              "round": "2",
+              "status": "starting"
+            },
+            {
+              "round": "3",
+              "status": "starting"
+            },
+            {
+              "round": "4",
+              "status": "bench"
+            },
+            {
+              "round": "5",
+              "status": "starting"
+            },
+            {
+              "round": "6",
+              "status": "starting"
+            },
+            {
+              "round": "7",
+              "status": "starting"
+            },
+            {
+              "round": "8",
+              "status": "starting"
+            },
+            {
+              "round": "9",
+              "status": "sub_in"
+            },
+            {
+              "round": "10",
+              "status": "starting"
+            },
+            {
+              "round": "11",
+              "status": "starting"
+            },
+            {
+              "round": "12",
+              "status": "starting"
+            },
+            {
+              "round": "13",
+              "status": "starting"
+            },
+            {
+              "round": "14",
+              "status": "starting"
+            },
+            {
+              "round": "15",
+              "status": "starting"
+            },
+            {
+              "round": "16",
+              "status": "sub_in"
+            },
+            {
+              "round": "17",
+              "status": "starting"
+            },
+            {
+              "round": "18",
+              "status": "starting"
+            },
+            {
+              "round": "19",
+              "status": "starting"
+            },
+            {
+              "round": "20",
+              "status": "starting"
+            },
+            {
+              "round": "21",
+              "status": "starting"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "starting"
+            },
+            {
+              "round": "25",
+              "status": "sub_in"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "starting"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        },
+        {
+          "name": "Karl Toko Ekambi",
+          "tmId": 315110,
+          "position": "CF",
+          "matches": [
+            {
+              "round": "1",
+              "status": "not_included"
+            },
+            {
+              "round": "2",
+              "status": "not_at_club"
+            },
+            {
+              "round": "3",
+              "status": "not_included"
+            },
+            {
+              "round": "4",
+              "status": "not_at_club"
+            },
+            {
+              "round": "5",
+              "status": "not_at_club"
+            },
+            {
+              "round": "6",
+              "status": "not_at_club"
+            },
+            {
+              "round": "7",
+              "status": "not_at_club"
+            },
+            {
+              "round": "8",
+              "status": "not_at_club"
+            },
+            {
+              "round": "9",
+              "status": "not_at_club"
+            },
+            {
+              "round": "10",
+              "status": "not_at_club"
+            },
+            {
+              "round": "11",
+              "status": "not_at_club"
+            },
+            {
+              "round": "12",
+              "status": "not_at_club"
+            },
+            {
+              "round": "13",
+              "status": "not_at_club"
+            },
+            {
+              "round": "14",
+              "status": "not_at_club"
+            },
+            {
+              "round": "15",
+              "status": "not_at_club"
+            },
+            {
+              "round": "16",
+              "status": "not_at_club"
+            },
+            {
+              "round": "17",
+              "status": "not_at_club"
+            },
+            {
+              "round": "18",
+              "status": "not_at_club"
+            },
+            {
+              "round": "19",
+              "status": "not_at_club"
+            },
+            {
+              "round": "20",
+              "status": "not_included"
+            },
+            {
+              "round": "21",
+              "status": "sub_in"
+            },
+            {
+              "round": "22",
+              "status": "starting"
+            },
+            {
+              "round": "23",
+              "status": "starting"
+            },
+            {
+              "round": "24",
+              "status": "sub_in"
+            },
+            {
+              "round": "25",
+              "status": "starting"
+            },
+            {
+              "round": "26",
+              "status": "starting"
+            },
+            {
+              "round": "27",
+              "status": "sub_in"
+            },
+            {
+              "round": "28",
+              "status": "starting"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "league": "FR1"
+}

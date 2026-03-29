@@ -1,0 +1,39 @@
+name: Update availability data
+
+on:
+  schedule:
+    - cron: '0 6 * * 2' # Every Tuesday at 06:00 UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install httpx beautifulsoup4 lxml pandas
+
+      - name: Fetch current season (all leagues)
+        run: python scripts/fetch-absences.py --league all --season 2025
+
+      - name: Rebuild cleaned panel
+        run: python scripts/build-panel.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add raw/ cleaned/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: update availability data [skip ci]"
+            git push
+          fi

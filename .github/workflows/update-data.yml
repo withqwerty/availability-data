@@ -20,8 +20,23 @@ jobs:
       - name: Install dependencies
         run: pip install httpx beautifulsoup4 lxml pandas
 
+      - name: Determine current season
+        id: season
+        run: |
+          # Football seasons start in August. If we're in Jan-Jul, the season
+          # started the previous calendar year. If Aug-Dec, it started this year.
+          MONTH=$(date +%m)
+          YEAR=$(date +%Y)
+          if [ "$MONTH" -lt 8 ]; then
+            SEASON=$((YEAR - 1))
+          else
+            SEASON=$YEAR
+          fi
+          echo "season=$SEASON" >> "$GITHUB_OUTPUT"
+          echo "Current season: $SEASON/$((SEASON + 1))"
+
       - name: Fetch current season (all leagues)
-        run: python scripts/fetch-absences.py --league all --season 2025
+        run: python scripts/fetch-absences.py --league all --season ${{ steps.season.outputs.season }}
 
       - name: Rebuild cleaned panel
         run: python scripts/build-panel.py

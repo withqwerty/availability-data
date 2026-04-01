@@ -1,8 +1,8 @@
 # Availability Data
 
-Player availability data for six European football leagues, updated weekly from [Transfermarkt](https://www.transfermarkt.com/).
+Player availability data for six European football leagues. Covers the Premier League, La Liga, Bundesliga, Serie A, Ligue 1, and Liga Portugal from 2015/16 to the current season.
 
-Covers the Premier League, La Liga, Bundesliga, Serie A, Ligue 1, and Liga Portugal from 2015/16 to the current season.
+Updated weekly from [Transfermarkt](https://www.transfermarkt.com/).
 
 ## What's in the data
 
